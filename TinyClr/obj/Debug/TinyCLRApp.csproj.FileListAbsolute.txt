@@ -1,0 +1,10 @@
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\bin\Debug\mscorlib.dll
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\obj\Debug\TinyCLRApp.csprojAssemblyReference.cache
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\obj\Debug\TinyCLRApp.csproj.CoreCompileInputs.cache
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\obj\Debug\TinyCLRApp.csproj.CopyComplete
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\bin\Debug\TinyCLRSample.exe
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\bin\Debug\TinyCLRSample.pdb
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\obj\Debug\TinyCLRSample.exe
+C:\Users\PepLluis\Source\Repos\CsOnSmallDevices\TinyClr\obj\Debug\TinyCLRSample.pdb
